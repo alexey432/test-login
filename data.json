@@ -1,0 +1,21 @@
+{
+  "oktaDomain": "https://dev-89287829.okta.com",
+  "oktaClientId": "0oa1cdp0iopizneVV5d7",
+  "providers": {
+    "facebook": {
+      "idpId": "0oa1d4rbzh0rag11W5d7"
+    },
+    "google": {
+      "idpId": "0oa1d4rbzh0rag11W5d7"
+    },
+    "apple": {
+      "idpId": "0oa1d4rbzh0rag11W5d7"
+    },
+    "microsoft": {
+      "idpId": "0oa1d4rbzh0rag11W5d7"
+    },
+    "linkedin": {
+      "idpId": "0oa1d4rbzh0rag11W5d7"
+    }
+  }
+}
